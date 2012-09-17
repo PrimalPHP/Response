@@ -1,5 +1,5 @@
 {
-	"name": "Primal/Response",
+	"name": "primal/response",
 	"description": "A wrapper class for performing common response actions",
 	"homepage": "http://github.com/PrimalPHP/Response",
 	"license": "MIT",
@@ -19,5 +19,10 @@
         "psr-0": {
             "Primal": "lib\/"
         }
-    }
+    },
+	"extra": {
+		"branch-alias": {
+			"dev-master": "1.0"
+		}
+	}
 }
